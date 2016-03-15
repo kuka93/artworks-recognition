@@ -15,3 +15,10 @@ Some results
 
 It was detected similarities with the Mona Lisa by Leonardo Da Vinci and the percentage of detected similarity is 82.98%.
 ![Res1](https://github.com/kuka93/artworks-recognition/blob/master/res1.jpg)
+
+- Image2
+
+![Image2](https://github.com/kuka93/artworks-recognition/blob/master/query08.png)
+
+It was detected similarities with the Mona Lisa by Leonardo Da Vinci and the percentage of detected similarity is 86.87%.
+![Res2](https://github.com/kuka93/artworks-recognition/blob/master/res2.jpg)
