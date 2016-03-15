@@ -9,3 +9,9 @@ Usage
 
 Some results
 ==============
+- Image1
+
+![Image1](https://github.com/kuka93/artworks-recognition/blob/master/query07.png)
+
+It was detected similarities with the Mona Lisa by Leonardo Da Vinci and the percentage of detected similarity is 82.98%.
+![Res1](https://github.com/kuka93/artworks-recognition/blob/master/res1.jpg)
